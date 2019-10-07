@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oxiezahku.distributedchurch.com/sitemap.xml
